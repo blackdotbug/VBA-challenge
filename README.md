@@ -8,4 +8,4 @@
 
 ### Analysis and Discussion
 
-![stockmarket image]("Images/stockmarket.jpg")
+![stockmarket image](Images/stockmarket.jpg)
